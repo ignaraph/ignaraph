@@ -15,7 +15,8 @@
  
 
 ### My languages and tools
-![javascript](https://user-images.githubusercontent.com/70608198/119151174-6daa6b80-ba4f-11eb-8b85-5c165c90f4ba.png)
+![javascript](https://user-images.githubusercontent.com/70608198/119153521-9e8ba000-ba51-11eb-92b3-1712b4bcb234.png)
+
 ![react](https://user-images.githubusercontent.com/70608198/119151321-903c8480-ba4f-11eb-9d1b-f3c14e956d80.png)
 ![css](https://user-images.githubusercontent.com/70608198/119151209-756a1000-ba4f-11eb-9a51-6230d1c8e3e3.png)
 ![nodejs](https://user-images.githubusercontent.com/70608198/119151229-7a2ec400-ba4f-11eb-834c-94f945e7946f.png)
