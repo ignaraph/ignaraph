@@ -16,12 +16,12 @@
 
 ### My languages and tools
 ![javascript](https://user-images.githubusercontent.com/70608198/119153870-e90d1c80-ba51-11eb-8acb-251e7196b1b7.png)
+![react](https://user-images.githubusercontent.com/70608198/119183238-15d22b80-ba74-11eb-943a-ad66e565bad7.png)
+![css](https://user-images.githubusercontent.com/70608198/119183307-31d5cd00-ba74-11eb-9da1-458d2f69a6c6.png)
+![nodejs](https://user-images.githubusercontent.com/70608198/119183368-47e38d80-ba74-11eb-9f5f-871b9b5bc7fb.png)
+![sql](https://user-images.githubusercontent.com/70608198/119183422-5d58b780-ba74-11eb-9d36-8f1c43bb140d.png)
+![mongodb](https://user-images.githubusercontent.com/70608198/119183558-88dba200-ba74-11eb-9b58-4f76849c58b6.png)
 
-![react](https://user-images.githubusercontent.com/70608198/119151321-903c8480-ba4f-11eb-9d1b-f3c14e956d80.png)
-![css](https://user-images.githubusercontent.com/70608198/119151209-756a1000-ba4f-11eb-9a51-6230d1c8e3e3.png)
-![nodejs](https://user-images.githubusercontent.com/70608198/119151229-7a2ec400-ba4f-11eb-834c-94f945e7946f.png)
-![sql](https://user-images.githubusercontent.com/70608198/119151237-7dc24b00-ba4f-11eb-9149-b969604b22e9.png)
-![mongodb](https://user-images.githubusercontent.com/70608198/119151301-8adf3a00-ba4f-11eb-8250-2568a533c2e0.png)
 
 
 
