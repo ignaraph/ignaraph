@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my github page, i'm Ignacio, a full stack developer currently in Barcelona, Spain. 
 
- I'm a Full Stack Developer currently working on projects independently, I was previously working at a company managing a logistics department and also rigorous ISO-9001 standards compiancel so I'm really passionate about clean and organized code! 
+ I'm a Full Stack Developer currently working on projects independently, I was previously working at a company managing a logistics department and also rigorous ISO-9001 standards compliance so I'm really passionate about clean and organized code! 
  
 
 
