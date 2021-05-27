@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on a machine learning based application involving pose detection. 
-- 🌱 I’m currently learning about mobile development with React Native. 
+- 🌱 I’m currently learning about Angular. 
 - 👯 I’m looking to collaborate on open source projects.
 
  
